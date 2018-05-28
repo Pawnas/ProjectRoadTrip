@@ -1,0 +1,26 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/Activities0"
+            android:icon="@drawable/ic_three"
+            android:title="Restaurants" />
+        <item
+            android:id="@+id/Activities1"
+            android:icon="@drawable/ic_three"
+            android:title="Hotels" />
+        <item
+            android:id="@+id/Activities2"
+            android:icon="@drawable/ic_three"
+            android:title="Paintballing" />
+        <item
+            android:id="@+id/Activities3"
+            android:icon="@drawable/ic_three"
+            android:title="Go carting" />
+        <item
+            android:id="@+id/Activities4"
+            android:icon="@drawable/ic_three"
+            android:title="Skydiving" />
+    </group>
+</menu>
+
